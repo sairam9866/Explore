@@ -1,0 +1,25 @@
+https://dzone.com/articles/scheduling-jobs-using-pcf-scheduler
+https://chercher.tech/protractor/jenkins-protractor
+
+Protractor With Jenkins :-)
+
+https://medium.com/@garunski/angular-e2e-testing-with-protractor-in-jenkins-on-kubernetes-a6f1010de881
+
+
+
+
+
+
+
+
+
+
+Mockito Links
+
+https://static.javadoc.io/org.mockito/mockito-core/3.1.0/org/mockito/Mockito.html
+
+https://static.javadoc.io/org.mockito/mockito-core/3.1.0/org/mockito/MockitoFramework.html
+
+https://dzone.com/articles/a-guide-to-mocking-with-mockito
+
+https://www.mkyong.com/java-best-practices/understand-the-serialversionuid/  -- serializable

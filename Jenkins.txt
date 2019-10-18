@@ -1,0 +1,18 @@
+Jenkins -
+
+
+Declerative CheckOut SCM
+Declerative Tool Install
+Preparation
+Get SCM settings
+Build and unit test
+jococo Code Scan
+SonarQube Analysis
+Deploy ZD-server to Development
+Deploy Zd-Server to Development
+
+
+
+SerialVersionUID
+
+
